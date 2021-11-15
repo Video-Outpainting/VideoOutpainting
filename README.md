@@ -32,6 +32,7 @@ cd tool
 python video_outpaint.py --path ../frames/ --outroot ../results/frames/ --Width 0.125 --replace
 ```
 replace: remove and recomplete 0.125*the width of the video on each side.
+
 no replace: extrapolate 0.125*the width of the video width on each side
 
 - Run dataset:
@@ -40,6 +41,7 @@ cd tool
 python runDataset.py --pathToDataset /home/user/Documents/DAVIS-data/DAVIS/JPEGImages/480p/ --outroot ../result/ --vertical
 ```
 vertical: Vertical to horizontal video conversion (0.33)
+
 no vertical: horizontal to ultra-wide video conversion (0.125)
 ## Acknowledgments
 - Our code is based upon [FGVC](https://github.com/vt-vl-lab/FGVC/).
