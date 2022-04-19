@@ -1,19 +1,19 @@
 ## Results
 
 ### Vertical to Horizontal
-- [Standard](https://tinyurl.com/VtHxStandard)
-- [Gao etal.](https://tinyurl.com/VtHxFGVC)
-- [Ours without image shifting](https://tinyurl.com/VtHxOurs)
-- [Ours + image shifting](https://tinyurl.com/VtHxShift)
-- [Ours + image shifting + post processing](https://tinyurl.com/VtHxPost)
+- [Standard Completions](https://www.youtube.com/playlist?list=PLh5XtfDDhGgX1tj4yuPEU-BQUxZnj7KRv)
+- [Gao etal.](https://www.youtube.com/playlist?list=PLh5XtfDDhGgVNLC1TfJTBdqYgYshIuyZi)
+- [Ours without image shifting](https://www.youtube.com/playlist?list=PLh5XtfDDhGgXDxdyNL4jg8-SpzWCKgEQN)
+- [Ours with image shifting](https://www.youtube.com/playlist?list=PLh5XtfDDhGgUsCCemgB8c6lejqQMIdqmf)
+- [Ours with both image shifting and post processing](https://www.youtube.com/playlist?list=PLh5XtfDDhGgVonQ0PifxQfr_EG0UpNbul)
     
 ### Landscape to Ultrawide
-- [Standard](https://tinyurl.com/LtUxStandard)
-- [Gao etal.](https://tinyurl.com/LtUxFGVC)
-- [Ours without image shifting](https://tinyurl.com/LtUxOurs)
-- [Ours + image shifting](https://tinyurl.com/LtUxShift)
-- [Ours + image shifting + post processing](https://tinyurl.com/LtUxPost)
-- 
+- [Standard Completions](https://www.youtube.com/playlist?list=PLh5XtfDDhGgWCs_SpBV6lpcXBoYUmUtrV)
+- [Gao etal.](https://www.youtube.com/playlist?list=PLh5XtfDDhGgWF627x6FrpdWzorSZd7yhm)
+- [Ours without image shifting](https://www.youtube.com/playlist?list=PLh5XtfDDhGgXgHrKEPTNTpg2dWi8DnB5B)
+- [Ours with image shifting](https://www.youtube.com/playlist?list=PLh5XtfDDhGgU8aHSfddl3oXSOwz6yMsB-)
+- [Ours with image shifting and post processing](https://www.youtube.com/playlist?list=PLh5XtfDDhGgWBokNQ2bJCV8UK7NeJ7OqB)
+
 ## Prerequisites
 - Tested on python 3.6.13, ubuntu 18.04 
 - Anaconda
