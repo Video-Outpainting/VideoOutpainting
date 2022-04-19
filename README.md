@@ -2,9 +2,9 @@
 
 - [Standard](https://tinyurl.com/VtHxStandard)
 - [Gao etal.](https://tinyurl.com/VtHxFGVC)
-- [Ours](https://tinyurl.com/VtHxOurs)
+- [Ours without image shifting](https://tinyurl.com/VtHxOurs)
 - [Ours + image shifting](https://tinyurl.com/VtHxShift)
-- [Ours + post processing](https://tinyurl.com/VtHxPost)
+- [Ours + image shifting + post processing](https://tinyurl.com/VtHxPost)
     
 
 ## Prerequisites
